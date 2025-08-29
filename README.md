@@ -17,10 +17,4 @@
 </p>
 -->
 
-<h2></h2>
-
-**<p align="center">Languages and Tools</p>**
-
-<h2></h2>
-</br>
 
